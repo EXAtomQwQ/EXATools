@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
-from EXATools import Version
+# from EXATools import Version
 
 with open("README.md", "r", encoding = "utf-8") as RD:
     README = RD.read()
 
 setup(
     name = "EXATools", 
-    version = Version.Version, 
+    version = "0.0.0", 
     description = "暗星Atom制造的一些Python小工具", 
     long_description_content_type = "text/markdown",
     long_description = README, 
