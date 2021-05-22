@@ -6,7 +6,7 @@ with open("README.md", "r", encoding = "utf-8") as RD:
 
 setup(
     name = "EXATools", 
-    version = "0.0.0", 
+    version = "0.0.1", 
     description = "暗星Atom制造的一些Python小工具", 
     long_description_content_type = "text/markdown",
     long_description = README, 
