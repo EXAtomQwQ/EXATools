@@ -8,5 +8,5 @@ git commit -m "Commit to Github - Use Git Upload"
 git push -u origin main
 python setup.py sdist
 twine upload dist/*
-rmdir /s /q %1.egg-info
+rmdir /s /q EXATools.egg-info
 rmdir /s /q dist

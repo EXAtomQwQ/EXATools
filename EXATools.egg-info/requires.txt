@@ -1,4 +1,0 @@
-pyperclip
-pygame
-requests
-pillow

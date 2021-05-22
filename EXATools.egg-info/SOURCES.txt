@@ -1,8 +1,0 @@
-README.md
-setup.py
-EXATools/__init__.py
-EXATools.egg-info/PKG-INFO
-EXATools.egg-info/SOURCES.txt
-EXATools.egg-info/dependency_links.txt
-EXATools.egg-info/requires.txt
-EXATools.egg-info/top_level.txt
